@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/6332586/119546412-e405e100-bd61-11eb-9c5d-0c22ab0beae2.png)
+
 # Course Lab Guide
 
 ## Python Labs
@@ -68,3 +70,8 @@
 [Ansible Bonus Labs](labs/Bonus_Labs/main.md)
 
 
+# CONFIDENTIAL
+
+## This material is owned by Network to Code, LLC.
+
+#### You are **NOT** permitted to distribute the material, content, slides, labs, and other related material outside of the course.
